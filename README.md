@@ -1,3 +1,7 @@
 # local-repository
 
-check
+code check
+java
+python
+css
+ruby
